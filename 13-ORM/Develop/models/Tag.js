@@ -20,6 +20,8 @@ Tag.init(
       allowNull: false
     }
   },
+
+
   
   {
     sequelize,
